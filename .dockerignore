@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.DS_Store
+*.tar.gz
+client
+server
+shared
+migrations
+*.md
+!deployment.md
+!README.md
