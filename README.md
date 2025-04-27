@@ -3,6 +3,12 @@
 
 HumanChain is a comprehensive dashboard designed to monitor and manage AI safety incidents. It provides a user-friendly interface for tracking incidents, analyzing trends, and ensuring compliance with safety protocols.
 
+### Github & Deploy Link:
+```bash
+   https://github.com/VIKASRAPARTHI/Human-Chain
+   https://human-chain-silk.vercel.app/
+```
+
 
 ## Features
 
